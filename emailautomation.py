@@ -5,9 +5,9 @@ from email.message import EmailMessage
 from blinker import receiver_connected
 
 subject = "email from python"
-body= "this is chandan automation"
-sender_email = "chandan.d.sm.eng01@gmil.com"
-receiver_email = "chandan.sm.eng01@gmail.com"
+body= "this is chan automation"
+sender_email = "chl.com"
+receiver_email = "c.com"
 password = input("enetr password ;")
 
 message = EmailMessage()
